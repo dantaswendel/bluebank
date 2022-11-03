@@ -46,7 +46,7 @@ Esse projeto consiste em uma API para gerenciar as transações de um banco fict
 - [X] Liste os endpoints no README.md
 
 <h3 id="RQFuncionais">Requisitos Funcionais</h3>
-Os requisitos funcionais desta API giram em torno de um CRUD entre clientes e suas respectivas contas bancárias, logo, este sistema possibilita:
+Os requisitos funcionais desta API são baseadas em ações de CRUD entre clientes e suas respectivas contas bancárias, logo, este sistema possibilita:
 
 - O cadastro de clientes - Incluindo dados pessoais e informações para contato.
 - A listagem de clientes - Você pode optar por listar todos os clientes existentes na base de dados ou buscar um em específico.
