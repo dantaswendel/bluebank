@@ -57,7 +57,7 @@ Os requisitos funcionais desta API são baseadas em ações de CRUD entre client
 - Efetuação de transações externas ou internas -TED, PIX, DOC, pagamentos ou transferências- agendadas ou não. 
 
 <h3 id="endpoints">Endpoints</h3>
-Os <b>endpoints</b> são literalmente pontas de um canal de comunicação. Neste caso em específico, o endpoint é uma das pontas da nossa API Bluebank, e por sua vez, essa API pode ser acessada/requisitada por uma URL que executa uma certa função quando chamada. Sendo assim, cada endpoint listado abaixo, executa um determinado trecho de código.
+Os <b>endpoints</b> são literalmente pontas de um canal de comunicação. Neste caso, o endpoint é uma das pontas da nossa API Bluebank, e por sua vez, essa API pode ser acessada/requisitada por uma URL que executa uma certa função quando chamada. Sendo assim, cada endpoint listado abaixo, executa um determinado trecho de código.
 
 <hr>
 <h4 align="center">Microsserviço de Clientes e Contas</h4>
